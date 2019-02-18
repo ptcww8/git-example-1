@@ -7,3 +7,4 @@ This is my first rails app. I have learned so far:
 
 * Git
 * Command Line Linux
+* showing how to amend
